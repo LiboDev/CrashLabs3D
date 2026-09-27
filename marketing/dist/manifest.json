@@ -1,0 +1,682 @@
+[
+  {
+    "file": "logo/logo-transparent.png",
+    "width": 1440,
+    "height": 517
+  },
+  {
+    "file": "logo/logo-1024w.png",
+    "width": 1024,
+    "height": 368
+  },
+  {
+    "file": "logo/logo-512w.png",
+    "width": 512,
+    "height": 184
+  },
+  {
+    "file": "logo/logo-256w.png",
+    "width": 256,
+    "height": 92
+  },
+  {
+    "file": "icons/icon-1024.png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "icons/icon-512.png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "icons/icon-256.png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "icons/icon-192.png",
+    "width": 192,
+    "height": 192
+  },
+  {
+    "file": "icons/icon-180.png",
+    "width": 180,
+    "height": 180
+  },
+  {
+    "file": "icons/icon-128.png",
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "icons/icon-96.png",
+    "width": 96,
+    "height": 96
+  },
+  {
+    "file": "icons/icon-64.png",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "file": "icons/icon-48.png",
+    "width": 48,
+    "height": 48
+  },
+  {
+    "file": "icons/icon-32.png",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "file": "icons/icon-16.png",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "file": "icons/icon-rounded-512.png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "icons/icon-circle-512.png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "icons/icon-rounded-256.png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "icons/icon-circle-256.png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "icons/favicon.ico",
+    "width": 64,
+    "height": 64
+  },
+  {
+    "file": "cover-art/clean/banner-16x9-1920x1080.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "cover-art/with-logo/banner-16x9-1920x1080.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "cover-art/clean/banner-16x9-3840x2160.jpg",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "file": "cover-art/with-logo/banner-16x9-3840x2160.jpg",
+    "width": 3840,
+    "height": 2160
+  },
+  {
+    "file": "cover-art/clean/banner-16x9-1280x720.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "cover-art/with-logo/banner-16x9-1280x720.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "cover-art/clean/banner-16x9-480x270.jpg",
+    "width": 480,
+    "height": 270
+  },
+  {
+    "file": "cover-art/with-logo/banner-16x9-480x270.jpg",
+    "width": 480,
+    "height": 270
+  },
+  {
+    "file": "cover-art/clean/banner-16x9-240x135.jpg",
+    "width": 240,
+    "height": 135
+  },
+  {
+    "file": "cover-art/clean/banner-9x16-1080x1920.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "cover-art/with-logo/banner-9x16-1080x1920.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "cover-art/clean/banner-9x16-270x480.jpg",
+    "width": 270,
+    "height": 480
+  },
+  {
+    "file": "cover-art/with-logo/banner-9x16-270x480.jpg",
+    "width": 270,
+    "height": 480
+  },
+  {
+    "file": "cover-art/clean/banner-9x16-135x240.jpg",
+    "width": 135,
+    "height": 240
+  },
+  {
+    "file": "cover-art/clean/phone-9x19.5-1170x2532.jpg",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "cover-art/with-logo/phone-9x19.5-1170x2532.jpg",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "cover-art/clean/tablet-3x4-1536x2048.jpg",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "cover-art/with-logo/tablet-3x4-1536x2048.jpg",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "cover-art/clean/tablet-4x3-2048x1536.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "cover-art/with-logo/tablet-4x3-2048x1536.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "cover-art/clean/square-1x1-1080.jpg",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "file": "cover-art/with-logo/square-1x1-1080.jpg",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "file": "cover-art/clean/square-1x1-512.jpg",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "cover-art/with-logo/square-1x1-512.jpg",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "cover-art/clean/social-og-1200x630.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "cover-art/with-logo/social-og-1200x630.jpg",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "cover-art/clean/social-x-1500x500.jpg",
+    "width": 1500,
+    "height": 500
+  },
+  {
+    "file": "cover-art/with-logo/social-x-1500x500.jpg",
+    "width": 1500,
+    "height": 500
+  },
+  {
+    "file": "cover-art/clean/ultrawide-21x9-2560x1080.jpg",
+    "width": 2560,
+    "height": 1080
+  },
+  {
+    "file": "cover-art/with-logo/ultrawide-21x9-2560x1080.jpg",
+    "width": 2560,
+    "height": 1080
+  },
+  {
+    "file": "cover-art/clean/youtube-thumb-1280x720.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "cover-art/with-logo/youtube-thumb-1280x720.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "file": "key-art/boss-showdown-1920x1080.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "key-art/boss-showdown-1080x1080.jpg",
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "file": "key-art/vehicle-lineup-1920x1080.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "key-art/vehicle-lineup-2560x1080.jpg",
+    "width": 2560,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/01-title.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/02-first-smash.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/03-upgrade.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/04-monster-combo.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/05-flamethrower.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/06-invincible.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/07-mega-bomb.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/08-mega-dozer.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/09-boss-showdown.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/10-boss-destroyed.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/landscape-16x9/11-victory.png",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "screenshots/phone-tall/01-title.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/02-first-smash.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/03-upgrade.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/04-monster-combo.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/05-flamethrower.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/06-invincible.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/07-mega-bomb.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/08-mega-dozer.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/09-boss-showdown.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/10-boss-destroyed.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-tall/11-victory.png",
+    "width": 1170,
+    "height": 2532
+  },
+  {
+    "file": "screenshots/phone-wide/01-title.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/02-first-smash.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/03-upgrade.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/04-monster-combo.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/05-flamethrower.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/06-invincible.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/07-mega-bomb.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/08-mega-dozer.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/09-boss-showdown.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/10-boss-destroyed.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/phone-wide/11-victory.png",
+    "width": 2532,
+    "height": 1170
+  },
+  {
+    "file": "screenshots/portrait-9x16/01-title.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/02-first-smash.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/03-upgrade.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/04-monster-combo.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/05-flamethrower.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/06-invincible.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/07-mega-bomb.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/08-mega-dozer.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/09-boss-showdown.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/10-boss-destroyed.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/portrait-9x16/11-victory.png",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "screenshots/tablet-landscape/01-title.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/02-first-smash.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/03-upgrade.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/04-monster-combo.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/05-flamethrower.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/06-invincible.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/07-mega-bomb.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/08-mega-dozer.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-landscape/09-boss-showdown.png",
+    "width": 2048,
+    "height": 1536
+  },
+  {
+    "file": "screenshots/tablet-portrait/01-title.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/02-first-smash.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/03-upgrade.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/04-monster-combo.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/05-flamethrower.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/06-invincible.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/07-mega-bomb.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/08-mega-dozer.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/09-boss-showdown.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/10-boss-destroyed.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "screenshots/tablet-portrait/11-victory.png",
+    "width": 1536,
+    "height": 2048
+  },
+  {
+    "file": "store/screenshots-16x9/01-first-smash.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/02-monster-combo.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/03-flamethrower.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/04-invincible.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/05-mega-bomb.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/06-boss-showdown.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/07-boss-destroyed.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-16x9/08-mega-dozer.jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "file": "store/screenshots-9x16/01-first-smash.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/02-monster-combo.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/03-flamethrower.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/04-invincible.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/05-mega-bomb.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/06-boss-showdown.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/07-boss-destroyed.jpg",
+    "width": 1080,
+    "height": 1920
+  },
+  {
+    "file": "store/screenshots-9x16/08-mega-dozer.jpg",
+    "width": 1080,
+    "height": 1920
+  }
+]

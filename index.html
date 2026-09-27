@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <title>Crash Lab</title>
+    <link rel="icon" href="data:," />
+    <!-- YouTube Playables SDK: MUST load before any game code. -->
+    <script src="https://www.youtube.com/game_api/v1"></script>
+    <style>
+      html, body { margin: 0; height: 100%; overflow: hidden; background: #8fd3ff; }
+      #boot {
+        position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+        font: 900 clamp(28px, 8vmin, 64px) system-ui, sans-serif; color: #fff;
+        text-shadow: 0 4px 0 #1b3a6b; letter-spacing: 0.04em;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="boot">CRASH LAB</div>
+    <div id="app"></div>
+    <script type="module" src="./src/main.ts"></script>
+  </body>
+</html>
