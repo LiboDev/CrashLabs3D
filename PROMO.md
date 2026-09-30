@@ -4,7 +4,7 @@
 
 **Smash the city. Collect scrap. Evolve your ride.**
 
-[▶ Play Crash Lab](https://libodev.github.io/KiroCrashers3d/) · [Source and setup](README.md)
+[▶ Play Crash Lab](https://libodev.github.io/CrashLabs3D/) · [Source and setup](README.md)
 
 Start in a shopping cart and smash your way through a bright toy city. Collect scrap to upgrade through seven vehicles, chain hits into bigger combos, grab powerups, and bring the mega dozer to the final boss fight.
 

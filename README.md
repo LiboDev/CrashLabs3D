@@ -4,7 +4,7 @@
 
 **Smash the city. Collect scrap. Evolve your ride.** Crash Lab is a colorful 3D arcade game that takes you from a shopping cart to a mega dozer, with a boss tank waiting at the end.
 
-[Play the game](https://libodev.github.io/KiroCrashers3d/) · [See screenshots and promo art](PROMO.md)
+[Play the game](https://libodev.github.io/CrashLabs3D/) · [See screenshots and promo art](PROMO.md)
 
 Steer with **A/D** or **←/→** on a keyboard. On a touch screen or with a mouse, press and drag to steer. Press **Space**, **Enter**, or tap to start.
 
