@@ -1,3 +1,5 @@
 node_modules
 /dist/
+/dist-playables/
+/crash-lab-itch.zip
 *.log
