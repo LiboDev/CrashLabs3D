@@ -126,7 +126,8 @@ export class AudioManager {
   }
 
   private ready(): boolean {
-    return !!this.ctx && this.audible && this.ctx.state === 'running';
+    // A start cue scheduled during resume will play as soon as the context runs.
+    return !!this.ctx && this.audible && this.ctx.state !== 'closed';
   }
 
   private get now(): number {
